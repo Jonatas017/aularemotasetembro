@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fazendo um novo exemplo
+=======
+adicionando ferramentas
+>>>>>>> ouro
